@@ -1,0 +1,8 @@
+swarm:
+  datasources:
+    data-sources:
+      cidades:
+        driver-name: mysql
+        connection-url: jdbc:mysql://localhost:3306/cidades
+        user-name: root
+        password: admin
